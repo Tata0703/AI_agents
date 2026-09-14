@@ -93,6 +93,7 @@
 | AugmentCode | [augmentcode.com](https://www.augmentcode.com/) |
 | Factory AI | [factory.ai](https://www.factory.ai/) |
 | Devika | [stitionai/devika](https://github.com/stitionai/devika) |
+| ContextStream | [contextstream.io](https://contextstream.io) / [mcp-server](https://github.com/contextstream/mcp-server) — shared project context MCP for Cursor, Claude Code, Codex, Grok |
 
 
 
